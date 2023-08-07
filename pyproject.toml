@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "clean-architecture-em-python"
+version = "0.1.0"
+description = ""
+authors = ["Oseiasdfarias <oseias.dfarias@gmail.com>"]
+readme = "README.md"
+packages = [{include = "clean_architecture_em_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
