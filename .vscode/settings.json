@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/bits/workspace/ciencia_de_dados/clean_architecture_em_python/.venv/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true
+}
