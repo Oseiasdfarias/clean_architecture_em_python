@@ -9,6 +9,8 @@ disable=
       C0321, # Multiple-statements
       W0221, # Arguments-differ
       R0801, # Duplicate-code
+      useless-option-value,
+      unknown-option-value,
 
 # A comma-separated list of package or module names from where C extensions may
 # be loaded. Extensions are loading into the active Python interpreter and may
