@@ -4,5 +4,6 @@
     "**/__pycache__": true,
     "**/*.pytest_cache": true
   },
-  "python.linting.enabled": false
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true
 }
