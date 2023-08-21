@@ -20,6 +20,7 @@ def test_register():
     assert response["count"] == 1
     assert response["attributes"]
 
+
 def test_register_first_name_error():
 
     first_name = "ola2222"
